@@ -1,0 +1,247 @@
+[
+  {
+    "day": 1,
+    "time": "夕方",
+    "count": 7279
+  },
+  {
+    "day": 1,
+    "time": "夜",
+    "count": 4290
+  },
+  {
+    "day": 1,
+    "time": "早朝",
+    "count": 892
+  },
+  {
+    "day": 1,
+    "time": "昼",
+    "count": 7112
+  },
+  {
+    "day": 1,
+    "time": "昼前",
+    "count": 6889
+  },
+  {
+    "day": 1,
+    "time": "朝",
+    "count": 2727
+  },
+  {
+    "day": 1,
+    "time": "深夜",
+    "count": 3031
+  },
+  {
+    "day": 2,
+    "time": "夕方",
+    "count": 10255
+  },
+  {
+    "day": 2,
+    "time": "夜",
+    "count": 6961
+  },
+  {
+    "day": 2,
+    "time": "早朝",
+    "count": 793
+  },
+  {
+    "day": 2,
+    "time": "昼",
+    "count": 7343
+  },
+  {
+    "day": 2,
+    "time": "昼前",
+    "count": 8338
+  },
+  {
+    "day": 2,
+    "time": "朝",
+    "count": 9873
+  },
+  {
+    "day": 2,
+    "time": "深夜",
+    "count": 2378
+  },
+  {
+    "day": 3,
+    "time": "夕方",
+    "count": 10744
+  },
+  {
+    "day": 3,
+    "time": "夜",
+    "count": 7260
+  },
+  {
+    "day": 3,
+    "time": "早朝",
+    "count": 892
+  },
+  {
+    "day": 3,
+    "time": "昼",
+    "count": 7148
+  },
+  {
+    "day": 3,
+    "time": "昼前",
+    "count": 8111
+  },
+  {
+    "day": 3,
+    "time": "朝",
+    "count": 10341
+  },
+  {
+    "day": 3,
+    "time": "深夜",
+    "count": 2569
+  },
+  {
+    "day": 4,
+    "time": "夕方",
+    "count": 10366
+  },
+  {
+    "day": 4,
+    "time": "夜",
+    "count": 7116
+  },
+  {
+    "day": 4,
+    "time": "早朝",
+    "count": 873
+  },
+  {
+    "day": 4,
+    "time": "昼",
+    "count": 7330
+  },
+  {
+    "day": 4,
+    "time": "昼前",
+    "count": 7970
+  },
+  {
+    "day": 4,
+    "time": "朝",
+    "count": 10157
+  },
+  {
+    "day": 4,
+    "time": "深夜",
+    "count": 2646
+  },
+  {
+    "day": 5,
+    "time": "夕方",
+    "count": 10149
+  },
+  {
+    "day": 5,
+    "time": "夜",
+    "count": 7197
+  },
+  {
+    "day": 5,
+    "time": "早朝",
+    "count": 845
+  },
+  {
+    "day": 5,
+    "time": "昼",
+    "count": 7185
+  },
+  {
+    "day": 5,
+    "time": "昼前",
+    "count": 7894
+  },
+  {
+    "day": 5,
+    "time": "朝",
+    "count": 9928
+  },
+  {
+    "day": 5,
+    "time": "深夜",
+    "count": 2714
+  },
+  {
+    "day": 6,
+    "time": "夕方",
+    "count": 11432
+  },
+  {
+    "day": 6,
+    "time": "夜",
+    "count": 8387
+  },
+  {
+    "day": 6,
+    "time": "早朝",
+    "count": 919
+  },
+  {
+    "day": 6,
+    "time": "昼",
+    "count": 7776
+  },
+  {
+    "day": 6,
+    "time": "昼前",
+    "count": 8447
+  },
+  {
+    "day": 6,
+    "time": "朝",
+    "count": 9715
+  },
+  {
+    "day": 6,
+    "time": "深夜",
+    "count": 3288
+  },
+  {
+    "day": 7,
+    "time": "夕方",
+    "count": 8589
+  },
+  {
+    "day": 7,
+    "time": "夜",
+    "count": 5450
+  },
+  {
+    "day": 7,
+    "time": "早朝",
+    "count": 1108
+  },
+  {
+    "day": 7,
+    "time": "昼",
+    "count": 8211
+  },
+  {
+    "day": 7,
+    "time": "昼前",
+    "count": 8695
+  },
+  {
+    "day": 7,
+    "time": "朝",
+    "count": 4842
+  },
+  {
+    "day": 7,
+    "time": "深夜",
+    "count": 3475
+  }
+]
