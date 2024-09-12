@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    max-width: 1200px;
+    max-height: 1200px;
+    margin: 0 auto;
+    gap: 20px;
+}
+
+.graph {
+    display: flex;
+    width: 100%;
+    height: 600px;
+    max-width: 800px;
+
+}
+
+.tooltip {
+    position: absolute;
+    text-align: left;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    pointer-events: none;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #333;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.legend rect {
+    stroke-width: 2;
+    stroke: white;
+}
+
+.legend text {
+    font-size: 12px;
+    fill: #555;
+}
